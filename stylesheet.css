@@ -60,3 +60,19 @@ li a {
 .article p {
     padding-bottom: 8px;
 }
+
+footer {
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+footer p {
+    margin-top: 20px;
+}
+
+footer a {
+    font-size: 12px;
+    text-decoration: none;
+    padding-left: 7px;
+    padding-right: 7px;
+}
