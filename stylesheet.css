@@ -4,7 +4,25 @@ header {
 }
 
 section img {
-    width: 300px
+    width: 120px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px #888888;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    float: left;
+}
+
+.biodata {
+    padding-top: 65px;
+}
+
+article {
+    clear: both;
 }
 
 ul {
