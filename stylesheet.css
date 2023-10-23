@@ -1,0 +1,32 @@
+header {
+    background-color: #333;
+    height: 48px;
+}
+
+section img {
+    width: 300px
+}
+
+ul {
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    color: white;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;    
+}
+
+
+
